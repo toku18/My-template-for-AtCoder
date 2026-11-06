@@ -1,4 +1,3 @@
-//https://atcoder.jp/contests/abc355/submissions/80235300 と同じテンプレです。
 #include <bits/stdc++.h>
 #include <atcoder/all>
 using namespace std;
